@@ -8,4 +8,4 @@ Aplicação em Flutter para Cálculo do IMC (Índice de Massa Corporal),
 à partir de dados informados nos campos de um formulário.
 
 Obs: Essa aplicação foi criada como exercício de desenvolvimento em Dart
-e FLutter.
+e Flutter.
